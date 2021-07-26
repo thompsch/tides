@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRoute>
+  <Iso2>AD</Iso2>
+  <ZipFrom>60000
+    <ZipTo>60005</ZipTo>
+    <Agent>6000</Agent>
+    <Ruta></Ruta>
+    <Color>VERDE</Color>
+    <AvailableService>1110000</AvailableService>
+    <Airport>1110000</Airport>
+  </Route>
+</ArrayOfRoute>

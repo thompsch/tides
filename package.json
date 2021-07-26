@@ -1,0 +1,25 @@
+{
+  "name": "tides",
+  "version": "1.0.0",
+  "description": "Tide data for Whidbey Island ~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+  "main": "convert.js",
+  "dependencies": {
+    "mongodb": "^4.0.0",
+    "xml-csv": "^1.0.1",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thompsch/tides.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thompsch/tides/issues"
+  },
+  "homepage": "https://github.com/thompsch/tides#readme"
+}
